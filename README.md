@@ -8,10 +8,10 @@ Last week I set out to start my biggest project to date and I encountered a majo
 
 What we aim to cover in this blog:
 * [What is a game engine?](#What-is-a-game-engine)
-* [How to choose your engine.](#Choose-your-engine!)
+* [How to choose your engine.](#Choose-your-engine)
 * [What games use what engine.](#Your-favorite-game-is-no-stanger)
-* [My personal goal with a game engine](#My-personal-project?)
-* [How to learn what you need](#The-learning-process)
+* [My personal goal with a game engine](#My-personal-project)
+* [How to learn what you need](#How-you-can-learn-fast)
 * [Making snake.](#Here-is-an-example!)
 * [References and people](My-Inspirations:)
 
