@@ -12,7 +12,7 @@ What we aim to cover in this blog:
 * [What games use what engine.](#Your favorite game is no stanger)
 * [My personal goal with a game engine](#What about me you ask?)
 * [How to learn what you need](#The learning process)
-* [Making snake.](example)
+* [Making snake.](#My example repo)
 * [References and people](My inspirations)
 
 
