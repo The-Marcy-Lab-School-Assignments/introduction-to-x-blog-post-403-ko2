@@ -1,4 +1,4 @@
-# To Create or not to Create, A Game Engine endevor. 
+# To Create or not to Create, A Game Dev endevor. 
 
 By Jose Correa
 
