@@ -1,8 +1,10 @@
 # Blog Title
 
-By [your name]
+By Jose Correa
 
 (Customize these headings!)
+What we aim to cover in this blog:
+
 
 ## Introduction
 
