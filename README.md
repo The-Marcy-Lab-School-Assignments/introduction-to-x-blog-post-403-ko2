@@ -4,6 +4,13 @@ By Jose Correa
 
 (Customize these headings!)
 What we aim to cover in this blog:
+* What is a game engine?
+* What games use what engine.
+* How to choose your engine.
+* My personal goal with a game engine 
+* How to learn what you need
+* Making snake.
+* References and people
 
 
 ## Introduction
