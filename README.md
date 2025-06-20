@@ -15,7 +15,7 @@ What we aim to cover in this blog:
 
 
 ## What is a game engine
-The driving factor of innovation in the gaming industry in the last 20 years has been through the use of game engines. But what exactly is a game engine? If you're a programmer, you can think of a game engine as a large framework that you can build a game around to decrease the time it takes to create your game. If you're a car guy, think of a game engine as a literal engine, if you pair it with the right chassis and parts you can create an amazing vehicle.  
+The driving factor of innovation in the gaming industry in the last 20 years has been through the use of game engines. 
 * Why should someone learn the language/framework that you are learning?
 * What is it used for? How popular is it? Who is it for (developers or users)?
 * Incorporate real-world analogies when appropriate and useful.
