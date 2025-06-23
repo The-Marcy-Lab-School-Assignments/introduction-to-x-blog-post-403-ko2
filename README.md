@@ -17,16 +17,27 @@ What we aim to cover in this blog:
 
 
 ## What is a game engine
-To put it simply, a game engine is a large framework that helps streamline the process of making video games. Let's imagine that you created a grade automation program for a school, and you're making a similar one for another school. You wouldn't want to create the whole program from scratch again. You can just re-use the one you had already created to save you time.
-This is the same logic for when people build on the same game engine. Instead of creating a whole new engine, they use the premade ones on the market. Now, these game engines have slightly different features build in. At typical game engine includes a suite of tools, libraries, and systems that allow developers to focus on their specific game content and logic! Things like:
-* graphics/rendering engine
-* physics engine
-* audio engine
-* input handling
-* animation system
-* scripting system
-* asset managment (sprites, models, etc.)
-* and more!
+To put it simply, a game engine is a powerful framework that streamlines the process of developing video games. Think of it like this: imagine you created a grade automation program for a school, and now you're making a similar one for another school. You wouldn’t want to build the whole thing from scratch again — you'd reuse your existing system to save time and effort.
+
+Game engines work the same way. Instead of creating all the core systems from the ground up, developers use pre-built engines to focus on the unique parts of their game — like mechanics, story, or visuals.
+
+Game engines come with different built-in features, but most include a suite of tools and systems to support game development, such as:
+
+* Graphics/Rendering engine
+
+* Physics engine
+
+* Audio engine
+
+* Input handling
+
+* Animation system
+
+* Scripting system
+
+* Asset management (e.g., sprites, models, sounds)
+
+* And more!
 
 
 * Why should someone learn the language/framework that you are learning?
