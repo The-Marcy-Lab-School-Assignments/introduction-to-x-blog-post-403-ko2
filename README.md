@@ -8,7 +8,7 @@ Last week I set out to start my biggest project to date and I encountered a majo
 
 What we aim to cover in this blog:
 * [What is a game engine](#What-is-a-game-engine)
-* [How to choose your engine](#Choose-your-engine)
+* [How to choose your engine](#Creating-vs-Re-Using)
 * [What games use what engine](#Your-favorite-game-is-no-stranger)
 * [My personal goal with a game engine](#My-personal-project)
 * [How to learn what you need](#How-you-can-learn-fast)
@@ -33,18 +33,13 @@ Game engines come with different built-in features, but most include a suite of 
 
 * Animation system
 
-* Scripting system
+* Scripting system (e.g., Python, C#, Java)
 
 * Asset management (e.g., sprites, models, sounds)
 
 * And more!
 
-
-* Why should someone learn the language/framework that you are learning?
-* What is it used for? How popular is it? Who is it for (developers or users)?
-* Incorporate real-world analogies when appropriate and useful.
-
-## Choose your engine
+## Creating vs Re-Using
 
 * For programming languages: data types, variables, code blocks, functions, conditionals, arrays and objects, and iteration. Include code snippets with explanations.
 
