@@ -42,7 +42,7 @@ Game engines come with different built-in features, but most include a suite of 
 ## Creating vs Re-Using
 There are 3 main reasons to create a new engine,
 * You want to learn: The best way to learn anything is to do the work. Make it yourself, tinker, break things, fix them. Research and make your own custom engine. It can even be a clone of an already existing one, but the key take away is - you know how it works from the inside out because you made it yourself.
-* Necessity: There are plenty of games out there that run custom engines. Noita (https://store.steampowered.com/app/881100/Noita/) for example: In this game, every pixel is able to fall in the custom built - ###everything falls engine###. This isnt availible in engines on the market so the developers had to make a custom engine to implement this feature!  
+* Necessity: There are plenty of games out there that run custom engines. Noita (https://store.steampowered.com/app/881100/Noita/) for example: In this game, every pixel is able to fall in the custom built - ###everything falls engine. This isnt availible in engines on the market so the developers had to make a custom engine to implement this feature!  
 
 ## Your favorite game is no stranger
 
