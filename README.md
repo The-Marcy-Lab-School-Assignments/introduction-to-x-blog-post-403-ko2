@@ -61,7 +61,7 @@ If you want to learn quickly they're are a few main ways to go about it. It depe
 In my case I already knew Javascript and programming fundamentals. All I need to do was get used to the syntax differences in Java, I studied this one video: https://www.youtube.com/watch?v=RRubcjpTkks 
 I googled any questions I had on the language and started building my first small project ill link below. I do plan to upload another blog going indepth on how to learn Java from Javascript and place a link to it here. I really took a different mind set in taking on this project, and I feel like this video sums it up:
 https://www.youtube.com/watch?v=piKJOD2s8KY
-All of the sudden it didnt feel like a chore creating curtain projects. When learning something new, I believe its best to learn what you think is the most fun. You'll end up learning what you need to in regards to whatever your building anyway. Sometimes strutured learning can be demotivating, then again some people have that preference and strive.   
+All of the sudden it didnt feel like a chore creating curtain projects. When learning something new, I believe its best to learn what you think is the most fun. You'll end up learning what you need to in regards to whatever your building anyway. Sometimes strutured learning can be demotivating and boring, then again some people have that preference and strive.   
 
 
 ## My personal project
@@ -74,8 +74,8 @@ These are some people that are keeping me inspired throughout this process!
 
 * Jason Thor Hall (aka PirateSoftware): https://www.youtube.com/@PirateSoftware
 * Michael Reeves: https://www.youtube.com/@MichaelReeves
-* Fireship: https://www.youtube.com/@MichaelReeves
+* Fireship: https://www.youtube.com/c/Fireship
 
-These are just some youtubers I enjoy watching and keep me wanting to code. 
+These are just some youtubers I enjoy watching and keep me coding. 
 
   
