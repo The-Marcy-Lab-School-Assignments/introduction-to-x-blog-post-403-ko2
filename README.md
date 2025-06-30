@@ -72,9 +72,9 @@ I have set out to make a 2D RPG completely from scratch. My own engine, my own s
 ## My Inspirations
 These are some people that are keeping me inspired throughout this process! 
 
-Jason Thor Hall (aka PirateSoftware): https://www.youtube.com/@PirateSoftware
-Michael Reeves: https://www.youtube.com/@MichaelReeves
-Fireship: https://www.youtube.com/@MichaelReeves
+* Jason Thor Hall (aka PirateSoftware): https://www.youtube.com/@PirateSoftware
+* Michael Reeves: https://www.youtube.com/@MichaelReeves
+* Fireship: https://www.youtube.com/@MichaelReeves
 
 These are just some youtubers I enjoy watching and keep me wanting to code. 
 
