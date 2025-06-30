@@ -10,7 +10,7 @@ What we aim to cover in this blog:
 * [What is a game engine](#What-is-a-game-engine)
 * [How to choose your engine](#Creating-vs-Re-Using)
 * [What games use what engine](#Your-favorite-game-is-no-stranger)
-* [Making Snake](#Making Snake)
+* [Making Snake](#Making-Snake)
 * [How to learn what you need](#How-you-can-learn-fast)
 * [My personal goal with a game engine](#My-personal-project)
 * [My Inspirations](My-Inspirations)
